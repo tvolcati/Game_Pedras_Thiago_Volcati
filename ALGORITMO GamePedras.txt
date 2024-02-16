@@ -29,3 +29,4 @@ INICIO
 
 	escreva("Você deu a seguinte quantidade de passos:", cont_passos)
 	escreva("Sua pontuação foi:" cont_pontos)
+FIMALGORITMO
